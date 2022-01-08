@@ -16,6 +16,11 @@ export interface Formulas
 
 You need Formulas.exe on your home computer to use this API.
 
+Access with 
+```js
+ns.Formulas
+```
+
 ## Properties
 
 |  Property | Type | Description |
