@@ -25,3 +25,10 @@ number
 
 The calculated grow time.
 
+<b>Example:</b>
+
+```js
+let server    = ns.getServer('n00dles');
+let player = ns.getPlayer();
+let growTime = ns.formulas.hacking.growTime(server, player);		
+```
